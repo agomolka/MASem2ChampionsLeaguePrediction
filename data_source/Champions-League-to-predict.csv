@@ -1,0 +1,9 @@
+round,matchweek_no,date,time,home_team,expected_goals_home,score,expected_goals_away,away_team,attendance,stadium,referee,home_team_score,away_team_score,winner,season
+Quarter-finals,0,2023-04-11,20:00,Benfica,,,,Inter,0,Estádio da Luz (1954),,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-11,20:00,Manchester City,,,,Bayern Munich,0,Etihad Stadium,,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-12,21:00,Real Madrid,,,,Chelsea,0,Estadio Santiago Bernabéu,,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-12,21:00,Milan,,,,Napoli,0,Stadio Giuseppe Meazza,,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-18,20:00,Chelsea,,,,Real Madrid,0,Stamford Bridge,,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-18,21:00,Napoli,,,,Milan,0,Stadio Diego Armando Maradona,,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-19,21:00,Bayern Munich,,,,Manchester City,0,Allianz Arena,,0,0,draw,2022-2023
+Quarter-finals,0,2023-04-19,21:00,Inter,,,,Benfica,0,Stadio Giuseppe Meazza,,0,0,draw,2022-2023

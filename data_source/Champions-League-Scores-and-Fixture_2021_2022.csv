@@ -1,0 +1,113 @@
+round,matchweek_no,date,time,home_team,expected_goals_home,score,expected_goals_away,away_team,attendance,stadium,referee,home_team_score,away_team_score,winner,season
+Group stage,1,2022-09-06,18:45,Dinamo Zagreb,0.6,1–0,0.9,Chelsea,20607,Stadion Maksimir,István Kovács,1,0,Dinamo Zagreb,2022-2023
+Group stage,1,2022-09-06,18:45,Dortmund,2.3,3–0,0.5,FC Copenhagen,70700,Signal Iduna Park,François Letexier,3,0,Dortmund,2022-2023
+Group stage,1,2022-09-06,20:00,Celtic,1.4,0–3,1.9,Real Madrid,57057,Celtic Park,Sandro Schärer,0,3,Real Madrid,2022-2023
+Group stage,1,2022-09-06,20:00,Benfica,1.1,2–0,0.2,Maccabi Haifa,55130,Estádio do Sport Lisboa e Benfica,Andreas Ekberg,2,0,Benfica,2022-2023
+Group stage,1,2022-09-06,21:00,RB Salzburg,1.3,1–1,0.9,Milan,29520,Red Bull Arena,Srđan Jovanović,1,1,draw,2022-2023
+Group stage,1,2022-09-06,21:00,Sevilla,0.3,0–4,3.6,Manchester City,38764,Estadio Ramón Sánchez Pizjuán,Davide Massa,0,4,Manchester City,2022-2023
+Group stage,1,2022-09-06,21:00,RB Leipzig,1.4,1–4,0.9,Shakhtar,41591,Red Bull Arena,João Pinheiro,1,4,Shakhtar,2022-2023
+Group stage,1,2022-09-06,21:00,Paris S-G,1.7,2–1,1.0,Juventus,47415,Parc des Princes,Anthony Taylor,2,1,Paris S-G,2022-2023
+Group stage,1,2022-09-07,18:45,Ajax,2.1,4–0,0.1,Rangers,52862,Johan Cruyff ArenA,Tobias Stieler,4,0,Ajax,2022-2023
+Group stage,1,2022-09-07,18:45,Eint Frankfurt,0.8,0–3,0.9,Sporting CP,50500,Deutsche Bank Park,Orel Grinfeeld,0,3,Sporting CP,2022-2023
+Group stage,1,2022-09-07,20:00,Tottenham,1.5,2–0,0.4,Marseille,57367,Tottenham Hotspur Stadium,Slavko Vinčič,2,0,Tottenham,2022-2023
+Group stage,1,2022-09-07,21:00,Napoli,4.0,4–1,1.0,Liverpool,51793,Stadio Diego Armando Maradona,Carlos del Cerro,4,1,Napoli,2022-2023
+Group stage,1,2022-09-07,21:00,Atlético Madrid,0.8,2–1,2.0,Porto,51777,Estadio Cívitas Metropolitano,Szymon Marciniak,2,1,Atlético Madrid,2022-2023
+Group stage,1,2022-09-07,21:00,Barcelona,2.3,5–1,0.8,Viktoria Plzeň,77411,Camp Nou,Lawrence Visser,5,1,Barcelona,2022-2023
+Group stage,1,2022-09-07,21:00,Inter,0.7,0–2,2.5,Bayern Munich,58951,Stadio Giuseppe Meazza,Clément Turpin,0,2,Bayern Munich,2022-2023
+Group stage,1,2022-09-07,21:00,Club Brugge,0.5,1–0,1.0,Leverkusen,21235,Jan Breydelstadion,Irfan Peljto,1,0,Club Brugge,2022-2023
+Group stage,2,2022-09-13,17:45,Sporting CP,0.9,2–0,0.9,Tottenham,39899,Estádio José Alvalade,Srđan Jovanović,2,0,Sporting CP,2022-2023
+Group stage,2,2022-09-13,18:45,Viktoria Plzeň,0.3,0–2,1.9,Inter,11252,Doosan Arena,Sandro Schärer,0,2,Inter,2022-2023
+Group stage,2,2022-09-13,20:00,Liverpool,2.2,2–1,0.3,Ajax,52387,Anfield,Artur Dias,2,1,Liverpool,2022-2023
+Group stage,2,2022-09-13,20:00,Porto,1.0,0–4,2.7,Club Brugge,39225,Estádio Do Dragão,Anastasios Sidiropoulos,0,4,Club Brugge,2022-2023
+Group stage,2,2022-09-13,21:00,Leverkusen,1.8,2–0,0.9,Atlético Madrid,25825,BayArena,Michael Oliver,2,0,Leverkusen,2022-2023
+Group stage,2,2022-09-13,21:00,Marseille,0.9,0–1,1.2,Eint Frankfurt,62500,Orange Vélodrome,José Sánchez,0,1,Eint Frankfurt,2022-2023
+Group stage,2,2022-09-13,21:00,Bayern Munich,1.7,2–0,2.0,Barcelona,75000,Allianz Arena,Danny Makkelie,2,0,Bayern Munich,2022-2023
+Group stage,2,2022-09-14,18:45,Milan,2.2,3–1,0.4,Dinamo Zagreb,61341,Stadio Giuseppe Meazza,Jesús Gil,3,1,Milan,2022-2023
+Group stage,2,2022-09-14,19:45,Shakhtar,0.4,1–1,1.5,Celtic,20697,Stadion Miejski Legii Warszawa im. Marsz...,Glenn Nyberg,1,1,draw,2022-2023
+Group stage,2,2022-09-14,20:00,Rangers,1.3,0–3,3.5,Napoli,50121,Ibrox Stadium,Antonio Matéu,0,3,Napoli,2022-2023
+Group stage,2,2022-09-14,20:00,Chelsea,1.2,1–1,0.4,RB Salzburg,38818,Stamford Bridge,Ivan Kružliak,1,1,draw,2022-2023
+Group stage,2,2022-09-14,20:00,Manchester City,1.0,2–1,0.7,Dortmund,50441,Etihad Stadium,Daniele Orsato,2,1,Manchester City,2022-2023
+Group stage,2,2022-09-14,21:00,FC Copenhagen,0.7,0–0,0.8,Sevilla,34910,Parken,Irfan Peljto,0,0,draw,2022-2023
+Group stage,2,2022-09-14,21:00,Juventus,0.8,1–2,2.2,Benfica,34015,Allianz Stadium,Felix Zwayer,1,2,Benfica,2022-2023
+Group stage,2,2022-09-14,21:00,Real Madrid,0.9,2–0,0.7,RB Leipzig,54289,Estadio Santiago Bernabéu,Maurizio Mariani,2,0,Real Madrid,2022-2023
+Group stage,2,2022-09-14,22:00,Maccabi Haifa,1.0,1–3,1.8,Paris S-G,30412,Sammy Ofer Stadium,Daniel Siebert,1,3,Paris S-G,2022-2023
+Group stage,3,2022-10-04,18:45,Bayern Munich,2.4,5–0,0.5,Viktoria Plzeň,75000,Allianz Arena,Nikola Dabanović,5,0,Bayern Munich,2022-2023
+Group stage,3,2022-10-04,18:55,Marseille,2.5,4–1,0.4,Sporting CP,618,Orange Vélodrome,Davide Massa,4,1,Marseille,2022-2023
+Group stage,3,2022-10-04,20:00,Liverpool,2.9,2–0,0.4,Rangers,49512,Anfield,Clément Turpin,2,0,Liverpool,2022-2023
+Group stage,3,2022-10-04,20:00,Porto,1.1,2–0,1.4,Leverkusen,42399,Estádio Do Dragão,Anthony Taylor,2,0,Porto,2022-2023
+Group stage,3,2022-10-04,21:00,Eint Frankfurt,1.0,0–0,1.5,Tottenham,50500,Deutsche Bank Park,Daniele Orsato,0,0,draw,2022-2023
+Group stage,3,2022-10-04,21:00,Inter,0.2,1–0,0.5,Barcelona,71368,Stadio Giuseppe Meazza,Slavko Vinčič,1,0,Inter,2022-2023
+Group stage,3,2022-10-04,21:00,Ajax,1.4,1–6,3.3,Napoli,52896,Johan Cruyff ArenA,François Letexier,1,6,Napoli,2022-2023
+Group stage,3,2022-10-04,21:00,Club Brugge,1.3,2–0,2.1,Atlético Madrid,25667,Jan Breydelstadion,István Kovács,2,0,Club Brugge,2022-2023
+Group stage,3,2022-10-05,18:45,RB Leipzig,2.2,3–1,0.9,Celtic,45228,Red Bull Arena,Espen Andreas Eskås,3,1,RB Leipzig,2022-2023
+Group stage,3,2022-10-05,18:45,RB Salzburg,2.2,1–0,0.7,Dinamo Zagreb,28864,Red Bull Arena,Andris Treimanis,1,0,RB Salzburg,2022-2023
+Group stage,3,2022-10-05,20:00,Chelsea,1.1,3–0,0.4,Milan,39537,Stamford Bridge,Danny Makkelie,3,0,Chelsea,2022-2023
+Group stage,3,2022-10-05,20:00,Benfica,1.4,1–1,1.0,Paris S-G,62295,Estádio do Sport Lisboa e Benfica,Jesús Gil,1,1,draw,2022-2023
+Group stage,3,2022-10-05,20:00,Manchester City,4.3,5–0,0.4,FC Copenhagen,51765,Etihad Stadium,Donatas Rumšas,5,0,Manchester City,2022-2023
+Group stage,3,2022-10-05,21:00,Real Madrid,3.4,2–1,0.8,Shakhtar,56011,Estadio Santiago Bernabéu,Ivan Kružliak,2,1,Real Madrid,2022-2023
+Group stage,3,2022-10-05,21:00,Sevilla,2.0,1–4,2.5,Dortmund,34598,Estadio Ramón Sánchez Pizjuán,Maurizio Mariani,1,4,Dortmund,2022-2023
+Group stage,3,2022-10-05,21:00,Juventus,2.3,3–1,2.0,Maccabi Haifa,28498,Allianz Stadium,Sandro Schärer,3,1,Juventus,2022-2023
+Group stage,4,2022-10-11,18:45,FC Copenhagen,0.3,0–0,1.6,Manchester City,35447,Parken,Artur Dias,0,0,draw,2022-2023
+Group stage,4,2022-10-11,19:45,Maccabi Haifa,0.8,2–0,0.5,Juventus,30074,Sammy Ofer Stadium,Antonio Matéu,2,0,Maccabi Haifa,2022-2023
+Group stage,4,2022-10-11,20:00,Celtic,2.0,0–2,1.7,RB Leipzig,57565,Celtic Park,Halil Umut Meler,0,2,RB Leipzig,2022-2023
+Group stage,4,2022-10-11,21:00,Dortmund,0.4,1–1,0.8,Sevilla,81000,Signal Iduna Park,Srđan Jovanović,1,1,draw,2022-2023
+Group stage,4,2022-10-11,21:00,Paris S-G,1.2,1–1,1.2,Benfica,46435,Parc des Princes,Michael Oliver,1,1,draw,2022-2023
+Group stage,4,2022-10-11,21:00,Milan,0.4,0–2,2.2,Chelsea,75051,Stadio Giuseppe Meazza,Daniel Siebert,0,2,Chelsea,2022-2023
+Group stage,4,2022-10-11,21:00,Dinamo Zagreb,0.9,1–1,1.3,RB Salzburg,20779,Stadion Maksimir,Tobias Stieler,1,1,draw,2022-2023
+Group stage,4,2022-10-11,22:00,Shakhtar,0.5,1–1,1.1,Real Madrid,29030,Stadion Miejski Legii Warszawa im. Marsz...,Orel Grinfeeld,1,1,draw,2022-2023
+Group stage,4,2022-10-12,18:45,Napoli,3.2,4–2,1.6,Ajax,52229,Stadio Diego Armando Maradona,Felix Zwayer,4,2,Napoli,2022-2023
+Group stage,4,2022-10-12,18:45,Atlético Madrid,2.3,0–0,0.6,Club Brugge,60810,Estadio Cívitas Metropolitano,Danny Makkelie,0,0,draw,2022-2023
+Group stage,4,2022-10-12,20:00,Sporting CP,0.3,0–2,2.8,Marseille,38126,Estádio José Alvalade,Alejandro Hernández,0,2,Marseille,2022-2023
+Group stage,4,2022-10-12,20:00,Rangers,0.5,1–7,2.2,Liverpool,48820,Ibrox Stadium,Slavko Vinčič,1,7,Liverpool,2022-2023
+Group stage,4,2022-10-12,20:00,Tottenham,3.0,3–2,1.2,Eint Frankfurt,55180,Tottenham Hotspur Stadium,Carlos del Cerro,3,2,Tottenham,2022-2023
+Group stage,4,2022-10-12,21:00,Viktoria Plzeň,1.2,2–4,3.0,Bayern Munich,11326,Doosan Arena,Bartosz Frankowski,2,4,Bayern Munich,2022-2023
+Group stage,4,2022-10-12,21:00,Leverkusen,2.2,0–3,1.8,Porto,30210,BayArena,István Kovács,0,3,Porto,2022-2023
+Group stage,4,2022-10-12,21:00,Barcelona,2.2,3–3,2.0,Inter,92302,Camp Nou,Szymon Marciniak,3,3,draw,2022-2023
+Group stage,5,2022-10-25,18:45,Sevilla,1.0,3–0,1.1,FC Copenhagen,29884,Estadio Ramón Sánchez Pizjuán,Benoît Bastien,3,0,Sevilla,2022-2023
+Group stage,5,2022-10-25,18:45,RB Salzburg,1.6,1–2,1.5,Chelsea,29520,Red Bull Arena,Sandro Schärer,1,2,Chelsea,2022-2023
+Group stage,5,2022-10-25,20:00,Benfica,3.3,4–3,2.4,Juventus,60131,Estádio do Sport Lisboa e Benfica,Srđan Jovanović,4,3,Benfica,2022-2023
+Group stage,5,2022-10-25,20:00,Celtic,1.4,1–1,0.8,Shakhtar,57478,Celtic Park,Serdar Gözübüyük,1,1,draw,2022-2023
+Group stage,5,2022-10-25,21:00,Paris S-G,2.6,7–2,0.8,Maccabi Haifa,46435,Parc des Princes,Felix Zwayer,7,2,Paris S-G,2022-2023
+Group stage,5,2022-10-25,21:00,Dortmund,1.2,0–0,1.2,Manchester City,81000,Signal Iduna Park,Davide Massa,0,0,draw,2022-2023
+Group stage,5,2022-10-25,21:00,RB Leipzig,2.2,3–2,2.1,Real Madrid,45228,Red Bull Arena,Daniele Orsato,3,2,RB Leipzig,2022-2023
+Group stage,5,2022-10-25,21:00,Dinamo Zagreb,0.7,0–4,3.2,Milan,20572,Stadion Maksimir,Szymon Marciniak,0,4,Milan,2022-2023
+Group stage,5,2022-10-26,18:45,Club Brugge,1.4,0–4,3.2,Porto,26144,Jan Breydelstadion,Michael Oliver,0,4,Porto,2022-2023
+Group stage,5,2022-10-26,18:45,Inter,3.2,4–0,0.1,Viktoria Plzeň,71849,Stadio Giuseppe Meazza,Andreas Ekberg,4,0,Inter,2022-2023
+Group stage,5,2022-10-26,20:00,Tottenham,1.7,1–1,0.8,Sporting CP,59588,Tottenham Hotspur Stadium,Danny Makkelie,1,1,draw,2022-2023
+Group stage,5,2022-10-26,21:00,Eint Frankfurt,1.1,2–1,0.7,Marseille,48700,Deutsche Bank Park,Jesús Gil,2,1,Eint Frankfurt,2022-2023
+Group stage,5,2022-10-26,21:00,Atlético Madrid,2.6,2–2,1.5,Leverkusen,63803,Estadio Cívitas Metropolitano,Clément Turpin,2,2,draw,2022-2023
+Group stage,5,2022-10-26,21:00,Barcelona,0.7,0–3,2.1,Bayern Munich,84016,Camp Nou,Anthony Taylor,0,3,Bayern Munich,2022-2023
+Group stage,5,2022-10-26,21:00,Ajax,1.2,0–3,1.6,Liverpool,53327,Johan Cruyff ArenA,José Sánchez,0,3,Liverpool,2022-2023
+Group stage,5,2022-10-26,21:00,Napoli,1.8,3–0,0.7,Rangers,39835,Stadio Diego Armando Maradona,Halil Umut Meler,3,0,Napoli,2022-2023
+Group stage,6,2022-11-01,17:45,Porto,2.7,2–1,0.8,Atlético Madrid,47546,Estádio Do Dragão,Daniele Orsato,2,1,Porto,2022-2023
+Group stage,6,2022-11-01,18:45,Leverkusen,1.1,0–0,0.5,Club Brugge,30210,BayArena,Maurizio Mariani,0,0,draw,2022-2023
+Group stage,6,2022-11-01,20:00,Liverpool,2.4,2–0,0.4,Napoli,52077,Anfield,Tobias Stieler,2,0,Liverpool,2022-2023
+Group stage,6,2022-11-01,20:00,Rangers,1.8,1–3,1.8,Ajax,48817,Ibrox Stadium,Glenn Nyberg,1,3,Ajax,2022-2023
+Group stage,6,2022-11-01,20:00,Sporting CP,0.5,1–2,1.2,Eint Frankfurt,41744,Estádio José Alvalade,Slavko Vinčič,1,2,Eint Frankfurt,2022-2023
+Group stage,6,2022-11-01,21:00,Marseille,1.4,1–2,0.6,Tottenham,50768,Orange Vélodrome,Szymon Marciniak,1,2,Tottenham,2022-2023
+Group stage,6,2022-11-01,21:00,Bayern Munich,1.5,2–0,0.7,Inter,75000,Allianz Arena,Ivan Kružliak,2,0,Bayern Munich,2022-2023
+Group stage,6,2022-11-01,21:00,Viktoria Plzeň,2.6,2–4,2.3,Barcelona,11258,Doosan Arena,Radu Petrescu,2,4,Barcelona,2022-2023
+Group stage,6,2022-11-02,18:45,Real Madrid,3.8,5–1,2.1,Celtic,52511,Estadio Santiago Bernabéu,Stéphanie Frappart,5,1,Real Madrid,2022-2023
+Group stage,6,2022-11-02,19:45,Shakhtar,0.2,0–4,2.2,RB Leipzig,26045,Stadion Miejski Legii Warszawa im. Marsz...,Michael Oliver,0,4,RB Leipzig,2022-2023
+Group stage,6,2022-11-02,20:00,Manchester City,2.0,3–1,0.4,Sevilla,51610,Etihad Stadium,Orel Grinfeeld,3,1,Manchester City,2022-2023
+Group stage,6,2022-11-02,20:00,Chelsea,2.7,2–1,0.9,Dinamo Zagreb,39392,Stamford Bridge,François Letexier,2,1,Chelsea,2022-2023
+Group stage,6,2022-11-02,21:00,FC Copenhagen,1.8,1–1,1.2,Dortmund,31900,Parken,Əliyar Ağayev,1,1,draw,2022-2023
+Group stage,6,2022-11-02,21:00,Juventus,1.6,1–2,0.5,Paris S-G,41089,Allianz Stadium,Carlos del Cerro,1,2,Paris S-G,2022-2023
+Group stage,6,2022-11-02,21:00,Milan,1.8,4–0,1.6,RB Salzburg,74292,Stadio Giuseppe Meazza,Antonio Matéu,4,0,Milan,2022-2023
+Group stage,6,2022-11-02,22:00,Maccabi Haifa,1.6,1–6,1.5,Benfica,30464,Sammy Ofer Stadium,Anthony Taylor,1,6,Benfica,2022-2023
+Round of 16,0,2023-02-14,21:00,Paris S-G,0.8,0–1,1.4,Bayern Munich,46435,Parc des Princes,Michael Oliver,0,1,Bayern Munich,2022-2023
+Round of 16,0,2023-02-14,21:00,Milan,1.7,1–0,0.4,Tottenham,74320,Stadio Giuseppe Meazza,Sandro Schärer,1,0,Milan,2022-2023
+Round of 16,0,2023-02-15,21:00,Dortmund,1.5,1–0,2.1,Chelsea,81365,Signal Iduna Park,Jesús Gil,1,0,Dortmund,2022-2023
+Round of 16,0,2023-02-15,21:00,Club Brugge,0.2,0–2,2.9,Benfica,24136,Jan Breydelstadion,Davide Massa,0,2,Benfica,2022-2023
+Round of 16,0,2023-02-21,20:00,Liverpool,1.8,2–5,1.6,Real Madrid,52337,Anfield,István Kovács,2,5,Real Madrid,2022-2023
+Round of 16,0,2023-02-21,21:00,Eint Frankfurt,0.4,0–2,2.8,Napoli,47500,Deutsche Bank Park,Artur Dias,0,2,Napoli,2022-2023
+Round of 16,0,2023-02-22,21:00,RB Leipzig,0.8,1–1,1.2,Manchester City,45228,Red Bull Arena,Serdar Gözübüyük,1,1,draw,2022-2023
+Round of 16,0,2023-02-22,21:00,Inter,1.5,1–0,1.6,Porto,75374,Stadio Giuseppe Meazza,Srđan Jovanović,1,0,Inter,2022-2023
+Round of 16,0,2023-03-07,20:00,Chelsea,2.0,2–0,0.8,Dortmund,38882,Stamford Bridge,Danny Makkelie,2,0,Chelsea,2022-2023
+Round of 16,0,2023-03-07,20:00,Benfica,3.3,5–1,0.9,Club Brugge,60960,Estádio do Sport Lisboa e Benfica,Halil Umut Meler,5,1,Benfica,2022-2023
+Round of 16,0,2023-03-08,20:00,Tottenham,0.5,0–0,1.4,Milan,61602,Tottenham Hotspur Stadium,Clément Turpin,0,0,draw,2022-2023
+Round of 16,0,2023-03-08,21:00,Bayern Munich,1.7,2–0,1.1,Paris S-G,75000,Allianz Arena,Daniele Orsato,2,0,Bayern Munich,2022-2023
+Round of 16,0,2023-03-14,20:00,Porto,1.7,0–0,0.5,Inter,48015,Estádio Do Dragão,Szymon Marciniak,0,0,draw,2022-2023
+Round of 16,0,2023-03-14,20:00,Manchester City,4.2,7–0,0.6,RB Leipzig,52038,Etihad Stadium,Slavko Vinčič,7,0,Manchester City,2022-2023
+Round of 16,0,2023-03-15,21:00,Napoli,2.7,3–0,1.1,Eint Frankfurt,49082,Stadio Diego Armando Maradona,Anthony Taylor,3,0,Napoli,2022-2023
+Round of 16,0,2023-03-15,21:00,Real Madrid,2.2,1–0,0.6,Liverpool,63127,Estadio Santiago Bernabéu,Felix Zwayer,1,0,Real Madrid,2022-2023
